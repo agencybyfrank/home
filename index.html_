@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos/estilos.css">
+    <link rel="shortcut icon" href="imagenes/logo.png" type="image/x-icon">
+    <title>Agency</title>
+
+    <meta property="og:title" content="Agency" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://agencybyfrank.com"/>
+    <meta property="og:image" content="imagenes/logo.png" />
+    <meta property="og:description" content="Ven a conocernos en nuestra página web"/>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <main>
+    <a href="embudo.html"><img src="imagenes/logo.png" alt="logo agency"></a>
+    <H1>AGENCY</H1>
+    <p>ESTAMOS CONSTRUYENDO ALGO FANTÁSTICO</p>
+    </main>
+
+</body>
+</html>  
